@@ -11,7 +11,7 @@ function setup() {
   noStroke();
   
 
-  
+  fill(176, 194, 217);
   beginShape();
   vertex(547, 256);
   vertex(568, 314);
