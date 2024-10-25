@@ -8,6 +8,7 @@ function setup() {
   createCanvas(1280, 720);
   image(img, 0, 0, width, height);
   noLoop();
+  noStroke();
   
 
   fill(176, 194, 217);
