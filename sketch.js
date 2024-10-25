@@ -32,7 +32,7 @@ function setup() {
   endShape(CLOSE);
 
   beginShape();
-  vertex(616, 334);
+  vertex(618, 334);
   vertex(673, 310);
   vertex(609, 270);
   endShape(CLOSE);
